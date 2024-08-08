@@ -16,11 +16,11 @@
 </div>
 
 ## Contato
-<div style="display: inline-block;">
-  <a href="mailto:valkiriaandrade2@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=E95420" alt="Gmail" width="40" height="40"/>
+<div style="display: flex; align-items: center;">
+  <a href="mailto:valkiriaandrade2@gmail.com" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="40" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/valkiriaandrade/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="40" height="40"/>
   </a>
 </div>
