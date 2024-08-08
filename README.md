@@ -14,9 +14,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" alt="Conda" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/QGIS_logo.svg" alt="QGIS" width="40" height="40"/>
-  <img src="https://www.arcgis.com/sharing/rest/content/items/a3162cc20aeb41d2a93c4af835beee5a/info/thumbnail/ago_downloaded.png" alt="ArcGIS Pro" width="40" height="40"/>
+  <img src="https://www.kindpng.com/picc/m/437-4376373_transparent-arcgis-logo-png-arcgis-pro-logo-png.png" alt="ArcGIS Pro" width="40" height="40"/>
 </div>
-</div>
+
 
 ## Contato
 <div style="display: flex; align-items: center;">
