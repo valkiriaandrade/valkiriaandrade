@@ -1,12 +1,12 @@
 ## Linguagens de Programação
 ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![R](https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg)
 
 ## Outras Stacks
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Conda](https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Jupyter](https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg)
+![Conda](https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg)
 
 ## Contato
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valkiriaandrade2@gmail.com)
