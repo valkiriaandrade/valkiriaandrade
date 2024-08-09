@@ -1,4 +1,4 @@
-## Linguagens de Programação e outras Stacks
+## Principais Linguagens, Frameworks e Bibliotecas Utilizadas 
 <div style="display: inline-block;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
