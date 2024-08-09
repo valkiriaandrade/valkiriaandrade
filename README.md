@@ -9,6 +9,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
   <img src="https://www.kindpng.com/picc/m/437-4376373_transparent-arcgis-logo-png-arcgis-pro-logo-png.png" alt="ArcGIS Pro" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/QGIS_logo%2C_2017.svg" alt="QGIS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/geopandas/geopandas/master/doc/source/_static/geopandas_logo.svg" alt="GeoPandas" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" alt="Seaborn" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="40" height="40"/>
 </div>
 
 ## Contato
