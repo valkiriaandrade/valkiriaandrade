@@ -12,7 +12,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   <img src="https://geopandas.org/_static/favicon.png" alt="GeoPandas" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/1200540?s=200&v=4" alt="Seaborn" width="40" height="40"/>
+  <img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="40" height="40"/>
 </div>
 
