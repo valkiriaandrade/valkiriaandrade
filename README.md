@@ -14,7 +14,7 @@ Weather and climate forecasts and monitoring for agribusiness: rainfall and temp
 Graduate studies in Natural Disasters at UNESP. I work with flood and drought signals, antecedent-wetness indices and early warning based on rainfall by river basin.
 
 ### Featured project
-**[RS Corridor Flood Watch](https://github.com/valkiriaandrade/rs-corridor-flood-watch)**: early warning of flood potential on three federal highway corridors in Rio Grande do Sul. It combines satellite rainfall, official flood records and ECMWF/GFS forecasts, validated on 2013–2024 data (AUC 0.86). Daily runs, bilingual Streamlit dashboard and PDF briefing.
+**[RS Corridor Flood Watch](https://github.com/valkiriaandrade/rs-corridor-flood-watch)**: early warning of flood potential on three federal highway corridors in Rio Grande do Sul (Brazil). It combines satellite rainfall, official flood records and ECMWF/GFS forecasts, validated on 2013–2024 data (AUC 0.86). Daily runs, bilingual Streamlit dashboard and PDF briefing.
 👉 [Live dashboard](https://rs-corridor-flood-watch.streamlit.app/?lang=en)
 
 ### Other projects
