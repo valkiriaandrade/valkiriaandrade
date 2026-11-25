@@ -1,6 +1,6 @@
 <img src="assets/banner.png" alt="Generative geodata banner: terrain, rainfall field, isolines, rivers and wind streamlines" width="100%"/>
 
-## Hi, I'm Valkiria 👋
+## Hi, I'm Valkiria 
 
 Meteorologist (UFPA) and data analyst. I turn weather and climate data into decisions for **energy**, **agribusiness** and **natural-disaster risk**.
 
