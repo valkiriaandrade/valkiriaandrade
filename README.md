@@ -1,6 +1,6 @@
 <img src="assets/banner.png" alt="Generative geodata banner: terrain, rainfall field, isolines, rivers and wind streamlines" width="100%"/>
 
-## Hi, I'm Valkiria 👋
+## Hi, I'm Valkiria
 
 Meteorologist (UFPA) and data analyst. I turn weather and climate data into decisions for **energy**, **agribusiness** and **natural-disaster risk**.
 
@@ -15,7 +15,7 @@ Graduate studies in Natural Disasters at UNESP. I work with flood and drought si
 
 ### Featured project
 **[RS Corridor Flood Watch](https://github.com/valkiriaandrade/rs-corridor-flood-watch)**: early warning of flood potential on three federal highway corridors in Rio Grande do Sul. It combines satellite rainfall, official flood records and ECMWF/GFS forecasts, validated on 2013–2024 data (AUC 0.86). Daily runs, bilingual Streamlit dashboard and PDF briefing.
-👉 [Live dashboard](https://rs-corridor-flood-watch.streamlit.app/?lang=en)
+[Live dashboard](https://rs-corridor-flood-watch.streamlit.app/?lang=en)
 
 ### Other projects
 | Project | What it does |
