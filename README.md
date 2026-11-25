@@ -14,16 +14,16 @@ Weather and climate forecasts and monitoring for agribusiness: rainfall and temp
 Graduate studies in Natural Disasters at UNESP. I work with flood and drought signals, antecedent-wetness indices and early warning based on rainfall by river basin.
 
 ### Featured project
-**[RS Corridor Flood Watch](https://github.com/valkiriaandrade/rs-corridor-flood-watch)**: early warning of flood potential on three federal highway corridors in Rio Grande do Sul (Brazil). It combines satellite rainfall, official flood records and ECMWF/GFS forecasts, validated on 2013–2024 data (AUC 0.86). Daily runs, bilingual Streamlit dashboard and PDF briefing.
+**[RS Corridor Flood Watch](https://github.com/valkiriaandrade/rs-corridor-flood-watch)**: early warning of flood potential on three federal highway corridors in Rio Grande do Sul. It combines satellite rainfall, official flood records and ECMWF/GFS forecasts, validated on 2013–2024 data (AUC 0.86). Daily runs, bilingual Streamlit dashboard and PDF briefing.
 👉 [Live dashboard](https://rs-corridor-flood-watch.streamlit.app/?lang=en)
 
 ### Other projects
 | Project | What it does |
 |---|---|
-| [MERGE-CPTEC](https://github.com/valkiriaandrade/MERGE-CPTEC) | Rainfall accumulation, climatology and anomaly maps for Brazil |
-| [SAMET-CPTEC](https://github.com/valkiriaandrade/SAMET-CPTEC) | Monthly max/min temperature anomaly maps for Brazil |
-| [NMME](https://github.com/valkiriaandrade/NMME) | Seasonal forecast maps from NMME / CFSv2 |
-| [WRF](https://github.com/valkiriaandrade/WRF) | 2 m temperature maps from the WRF regional model |
+| [NMME Seasonal Forecast Maps](https://github.com/valkiriaandrade/nmme-seasonal-forecast-maps) | Seasonal forecast maps from NMME / CFSv2 |
+| [WRF Weather Model Maps](https://github.com/valkiriaandrade/wrf-weather-model-maps) | 2 m temperature maps from the WRF regional model |
+| [Rainfall Maps for Brazil (MERGE/CPTEC)](https://github.com/valkiriaandrade/merge-rainfall-maps) | Rainfall accumulation, climatology and anomaly maps for Brazil |
+| [Temperature Anomaly Maps for Brazil (SAMeT/CPTEC)](https://github.com/valkiriaandrade/samet-temperature-anomaly-maps) | Monthly max/min temperature anomaly maps for Brazil |
 
 Each one is a tested Python package with a command-line interface and CI.
 
