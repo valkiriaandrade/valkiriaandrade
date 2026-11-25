@@ -38,6 +38,7 @@ ECMWF · GFS · WRF · NMME/CFSv2 · MERGE · SAMeT · IMERG · ANA · S2iD · O
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" title="Matplotlib" width="40" height="40"/>
 <img src="https://geopandas.org/_static/favicon.png" alt="GeoPandas" title="GeoPandas" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/QGIS_logo%2C_2017.svg" alt="QGIS" title="QGIS" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" title="Power BI" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" title="Jupyter" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" title="Anaconda" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" title="Streamlit" width="40" height="40"/>
