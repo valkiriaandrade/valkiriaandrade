@@ -1,10 +1,8 @@
 <img src="assets/banner.png" alt="Generative geodata banner: terrain, rainfall field, isolines, rivers and wind streamlines" width="100%"/>
 
-## Hi, I'm Valkiria 
+## Hi, I'm Valkiria 👋
 
 Meteorologist (UFPA) and data analyst. I turn weather and climate data into decisions for **energy**, **agribusiness** and **natural-disaster risk**.
-
-🇧🇷 *Meteorologista e analista de dados. Transformo dados de tempo e clima em decisões para energia, agronegócio e risco de desastres naturais.*
 
 ### ⚡ Energy
 Senior Meteorology and Hydrology Analyst in the Brazilian power market. I build hydrometeorological scenarios for South America, prepare inputs for NEWAVE / DECOMP / DESSEM, automate ONS and CCEE data pipelines and verify forecasts against observations.
